@@ -1,0 +1,16 @@
+# 数据集（体积大且受天池协议约束，不纳入版本控制）
+*.csv
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
